@@ -10,4 +10,4 @@ faces:
 - pinwheel
 - egg
 
-![]{(dice.png)
+![](dice.png)
