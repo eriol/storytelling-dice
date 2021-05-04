@@ -11,3 +11,7 @@ faces:
 - egg
 
 ![](dice.png)
+
+![](01.jpg)
+
+![](02.jpg)
