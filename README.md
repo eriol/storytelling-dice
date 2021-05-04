@@ -10,8 +10,8 @@ faces:
 - pinwheel
 - egg
 
-![](dice.png)
+![image of storytelling dice make using solvespace](dice.png)
 
-![](01.jpg)
+![photo of the printed dice showing house, shoe and monster faces](01.jpg)
 
-![](02.jpg)
+![photo of the printed dice showing pacifier, shoe and pinwheel faces](02.jpg)
